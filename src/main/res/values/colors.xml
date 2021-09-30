@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="bg_utama">#00BCD4</color>
+    <color name="putih">#ffff</color>
+    <color name="kelas_kelas">#757473</color>
+    <color name="oranye">#FFA000</color>
+    <color name="hitam">#000000</color>
+</resources>

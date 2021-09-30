@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="textView1">Hi, Irfan</string>
+    <string name="textView2">Are you ready for today\'s class?</string>
+    <string name="class_b">Class B</string>
+    <string name="maths">Maths</string>
+</resources>
